@@ -11,7 +11,7 @@ const App = () => {
             <Post author={{
                 name: "Lidych Andriy",
                 photo: avatar_image,
-                nickname: "@ALlll"
+                nickname: "@ALllllll"
             }}
                   content="1111111111"
                   image={ukraineImage}
