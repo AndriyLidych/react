@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.8aa6d567.css",
+    "main.js": "/react/static/js/main.dec80749.js",
+    "static/media/love.png": "/react/static/media/love.e4ffc7816448cc0e4475.png",
+    "static/media/free-icon-bubble-chat-5167069.png": "/react/static/media/free-icon-bubble-chat-5167069.8048ef608b7210e1c8bc.png",
+    "index.html": "/react/index.html",
+    "main.8aa6d567.css.map": "/react/static/css/main.8aa6d567.css.map",
+    "main.dec80749.js.map": "/react/static/js/main.dec80749.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aa6d567.css",
+    "static/js/main.dec80749.js"
+  ]
+}
